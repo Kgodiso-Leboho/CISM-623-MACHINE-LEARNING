@@ -17,26 +17,27 @@ Objectives
 Topics Covered
 
 
-Introduction to Machine Learning
-Data Preprocessing and Feature Engineering
-Supervised Learning
-Linear Regression
-Logistic Regression
-Decision Trees
-Support Vector Machines
-Unsupervised Learning
-Clustering (K-Means, Hierarchical)
-Dimensionality Reduction (PCA)
-Model Evaluation
-Cross-validation
-Accuracy, Precision, Recall, F1-score
-Overfitting and Regularization
-Introduction to Neural Networks (if applicable)
-🛠️ Tech Stack
-Programming Language: Python
-Libraries:
-NumPy
-Pandas
-Scikit-learn
-Matplotlib / Seaborn
-(Optional) PyTorch / TensorFlow
+- Introduction to Machine Learning
+- Data Preprocessing and Feature Engineering
+- Supervised Learning
+-- Linear Regression
+-- Logistic Regression
+-- Decision Trees
+-- Support Vector Machines
+- Unsupervised Learning
+-- Clustering (K-Means, Hierarchical)
+-- Dimensionality Reduction (PCA)
+-- Model Evaluation
+-- Cross-validation
+-- Accuracy, Precision, Recall, F1-score
+-- Overfitting and Regularization
+- Introduction to Neural Networks 
+
+Tech Stack
+- Programming Language: Python
+- Libraries:
+-- NumPy
+-- Pandas
+-- Scikit-learn
+-- Matplotlib / Seaborn
+-- PyTorch / TensorFlow
