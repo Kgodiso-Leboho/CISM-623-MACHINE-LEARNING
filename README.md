@@ -11,8 +11,8 @@ Objectives
 - Understand core machine learning concepts and algorithms
 - Apply supervised and unsupervised learning techniques
 - Evaluate model performance using appropriate metrics
-= Work with real-world datasets
-= Develop reproducible and scalable ML pipelines
+- Work with real-world datasets
+- Develop reproducible and scalable ML pipelines
 
 Topics Covered
 
