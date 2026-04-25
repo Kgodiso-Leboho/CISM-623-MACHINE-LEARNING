@@ -1,4 +1,4 @@
-#CISM-623 Machine Learning
+##CISM-623 Machine Learning##
 📌 Overview
 
 This repository contains coursework, projects, and experiments completed for the CISM-623: Machine Learning module. The focus of this course is on understanding, implementing, and evaluating machine learning algorithms for real-world problem solving.
