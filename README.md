@@ -1,12 +1,12 @@
-CISM-623 Machine Learning
+**CISM-623 Machine Learning**
 
-Overview
+**Overview**
 
 This repository contains coursework, projects, and experiments completed for the CISM-623: Machine Learning module. The focus of this course is on understanding, implementing, and evaluating machine learning algorithms for real-world problem solving.
 
 The repository demonstrates both theoretical understanding and practical implementation using modern tools and frameworks.
 
-Objectives
+**Objectives
 
 - Understand core machine learning concepts and algorithms
 - Apply supervised and unsupervised learning techniques
@@ -14,7 +14,7 @@ Objectives
 - Work with real-world datasets
 - Develop reproducible and scalable ML pipelines
 
-Topics Covered
+**Topics Covered**
 
 
 - Introduction to Machine Learning
@@ -25,15 +25,15 @@ Topics Covered
 -- Decision Trees
 -- Support Vector Machines
 - Unsupervised Learning
--- Clustering (K-Means, Hierarchical)
--- Dimensionality Reduction (PCA)
+  - Clustering (K-Means, Hierarchical)
+  - Dimensionality Reduction (PCA)
 -- Model Evaluation
 -- Cross-validation
 -- Accuracy, Precision, Recall, F1-score
 -- Overfitting and Regularization
 - Introduction to Neural Networks 
 
-Tech Stack
+**Tech Stack**
 - Programming Language: Python
 - Libraries:
 -- NumPy
