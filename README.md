@@ -27,10 +27,10 @@ The repository demonstrates both theoretical understanding and practical impleme
 - Unsupervised Learning
   - Clustering (K-Means, Hierarchical)
   - Dimensionality Reduction (PCA)
--- Model Evaluation
--- Cross-validation
--- Accuracy, Precision, Recall, F1-score
--- Overfitting and Regularization
+  - Model Evaluation
+  - Cross-validation
+  - Accuracy, Precision, Recall, F1-score
+  - Overfitting and Regularization
 - Introduction to Neural Networks 
 
 **Tech Stack**
