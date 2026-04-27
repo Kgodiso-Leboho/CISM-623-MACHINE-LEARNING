@@ -1,4 +1,4 @@
-**CISM-623 Machine Learning**
+#**CISM-623 Machine Learning**#
 
 **Overview**
 
@@ -6,7 +6,7 @@ This repository contains coursework, projects, and experiments completed for the
 
 The repository demonstrates both theoretical understanding and practical implementation using modern tools and frameworks.
 
-**Objectives
+**Objectives**
 
 - Understand core machine learning concepts and algorithms
 - Apply supervised and unsupervised learning techniques
