@@ -20,10 +20,10 @@ The repository demonstrates both theoretical understanding and practical impleme
 - Introduction to Machine Learning
 - Data Preprocessing and Feature Engineering
 - Supervised Learning
--- Linear Regression
--- Logistic Regression
--- Decision Trees
--- Support Vector Machines
+  - Linear Regression
+  - Logistic Regression
+  - Decision Trees
+  - Support Vector Machines
 - Unsupervised Learning
   - Clustering (K-Means, Hierarchical)
   - Dimensionality Reduction (PCA)
@@ -36,8 +36,8 @@ The repository demonstrates both theoretical understanding and practical impleme
 **Tech Stack**
 - Programming Language: Python
 - Libraries:
--- NumPy
--- Pandas
--- Scikit-learn
--- Matplotlib / Seaborn
--- PyTorch / TensorFlow
+  - NumPy
+  - Pandas
+  - Scikit-learn
+  - Matplotlib / Seaborn
+  - PyTorch / TensorFlow
