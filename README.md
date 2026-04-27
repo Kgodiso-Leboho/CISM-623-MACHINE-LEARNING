@@ -1,4 +1,4 @@
-#**CISM-623 Machine Learning**#
+**CISM-623 Machine Learning**
 
 **Overview**
 
